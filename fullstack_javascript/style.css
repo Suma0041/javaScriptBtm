@@ -1,0 +1,15 @@
+.action{
+    float: left;
+}
+
+h1{
+    font-size:70px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+#template{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
